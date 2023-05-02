@@ -16,7 +16,7 @@ ISG - GEI emplea la formación investigadora y diversa experiencia profesional d
 
 > Advocar por la internacionalización de la empresa peruana y promover la investigación de este proceso desde diversas perspectivas
 
-## Convocatoria junio 2023 - CALL FOR INSIGHTS
+### Convocatoria junio 2023 - CALL FOR INSIGHTS
 
 En la primera mitad de junio 2023 realizaremos en la Universidad del Pacífico la 1ra conferencia por la creación de ISG - GEI. Nuestro **CALL FOR INSIGHTS** busca presentar a la comunidad empresarial y sociedad el significado (y reto) de realizar Negocios Internacionales: *contribuir a generar valor en más de un lugar—más allá de las fronteras de nuestro país.*
 
