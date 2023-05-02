@@ -10,7 +10,7 @@ author_profile: true
 <img src="/images/jpBolanos2_2023.JPG" align="left" width="150px"/>
 
 &nbsp; **Jean Pierre Bolaños** \
-&nbsp; `I-promoción, Negocios Internacionales UP`
+&nbsp; `I promoción, Negocios Internacionales UP`
 <!---
 &nbsp; *Research master student, University of Groningen* \
 &nbsp; • Becario, Graduate School of Economics and Business
