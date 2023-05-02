@@ -45,9 +45,7 @@ I promoción, Negocios Internacionales UP
 
 *Executive MBA — INCAE Business School*
 
-• Co-founder & COO en [Almma](https://almma.pe/)
-
-• Business Partner en Hybrid Advisors
+• Co-founder & COO en [Almma](https://almma.pe/) y Business Partner en Hybrid Advisors
 
 <br clear="left"/>
 
