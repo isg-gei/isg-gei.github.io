@@ -10,7 +10,7 @@ redirect_from:
 
 El Grupo de Estudio de la Internacionalización, GEI (Internationalization Study Group, ISG), es una organización enfocada en investigar y advocar por la internacionalización de la empresa en el Perú. ISG - GEI es impulsada por egresados de [Negocios Internacionales](https://admision.up.edu.pe/carreras/negocios-internacionales/) de la Universidad del Pacífico y es un esfuerzo apoyado por la Escuela de Honores ([Honours College](https://www.rug.nl/education/honours-college/?lang=en)) de la Universidad de Groningen, Países Bajos.
 
-ISG - GEI emplea la formación investigadora y diversa experiencia profesional de sus miembros para demostrar el valor de los Negocios Internacionales para la empresa peruana y nuestra sociedad.  En esta actividad, nuestras recomendaciones y perspectivas ofrecidas a la comunidad empresarial y sociedad están basadas en evidencia y estudios científicos. 
+ISG - GEI emplea la formación investigadora y diversa experiencia profesional de sus miembros para demostrar el valor de los Negocios Internacionales para las empresa peruanas y nuestra sociedad.  En esta actividad, nuestras recomendaciones y perspectivas ofrecidas a la comunidad empresarial y sociedad están basadas en evidencia y estudios científicos. 
 
 ## Nuestro principio guía
 
