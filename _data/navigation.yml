@@ -1,22 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "CALL FOR INSIGHTS 2023"
+    url: /call2023/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Publicaciones"
+    url: /publications/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Sobre ISG - GEI"
+    url: /aboutus/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Equipo"
+    url: /team/
+       
