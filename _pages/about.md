@@ -18,7 +18,7 @@ ISG - GEI emplea la formación investigadora y diversa experiencia profesional d
 
 ## Convocatoria junio 2023 - CALL FOR INSIGHTS
 
-En la primera mitad de junio 2023 se realizará la primera conferencia por la creación de ISG - GEI. Este llamado busca exponer a la comunidad empresarial y sociedad al significado real de realizar Negocios Internacionales: *contribuir a generar valor en más de un lugar—más allá de las fronteras de nuestro país.*
+En la primera mitad de junio 2023 realizaremos en la Universidad del Pacífico la 1ra conferencia por la creación de ISG - GEI. Nuestro **CALL FOR INSIGHTS** busca presentar a la comunidad empresarial y sociedad el significado (y reto) de realizar Negocios Internacionales: *contribuir a generar valor en más de un lugar—más allá de las fronteras de nuestro país.*
 
-Para participar en la conferencia, revise nuestro **flyer**, **call for insights** y envíe su propuesta antes del 20 de mayo del 2023 al correo indicado en la convocatoria.
+Si desea participar en la conferencia, por favor revise nuestro **flyer**, las instrucciones en el **call for insights** y envíe su propuesta antes del 20 de mayo del 2023 al correo indicado en la convocatoria.
 
