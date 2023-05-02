@@ -7,14 +7,12 @@ author_profile: true
 
 
 
-<img src="/images/jpBolanos2_2023.JPG" align="left" width="200px"/>
+<img src="/images/jpBolanos2_2023.JPG" align="left" width="150px"/>
 
-**Jean Pierre Bolaños**
-
+**Jean Pierre Bolaños** \
 I promoción, Negocios Internacionales UP
 
-*Research master student, University of Groningen*
-
+*Research master student, University of Groningen* \
 • Becario, Graduate School of Economics and Business
 
 <br clear="left"/>
@@ -22,29 +20,25 @@ I promoción, Negocios Internacionales UP
 &nbsp;
 &nbsp;
 
-<img src="/images/mariaAlejandraPadilla2023.jpg" align="left" width="200px"/>
+<img src="/images/mariaAlejandraPadilla2023.jpg" align="left" width="150px"/>
 
-**María Alejandra Padilla**
-
+**María Alejandra Padilla** \
 I promoción, Negocios Internacionales UP
 
-*CRM and Data Analytics Lead — Hiraoka*
-
-• 1er puesto y Premio especial Robert Maes, Promoción 2017-I
+*CRM and Data Analytics Lead — Hiraoka* \
+• 1er puesto & Premio especial Robert Maes, Promoción 2017-I
 
 <br clear="left"/>
 
 &nbsp;
 &nbsp;
 
-<img src="/images/javierTang2_2023.jpg" align="left" width="200px"/>
+<img src="/images/javierTang2_2023.jpg" align="left" width="150px"/>
 
-**Javier Tang**
-
+**Javier Tang** \
 I promoción, Negocios Internacionales UP
 
-*Executive MBA — INCAE Business School*
-
+*Executive MBA — INCAE Business School* \
 • Co-founder & COO en [Almma](https://almma.pe/) y Business Partner en Hybrid Advisors
 
 <br clear="left"/>
