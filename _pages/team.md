@@ -34,8 +34,8 @@ author_profile: true
 
 <img src="/images/javierTang2_2023.jpg" align="left" width="150px"/>
 
-**Javier Tang** \
-`I promoción, Negocios Internacionales UP`
+&nbsp; **Javier Tang** \
+&nbsp; `I promoción, Negocios Internacionales UP`
 <!---
 *Executive MBA — INCAE Business School* \
 • Co-founder & COO en [Almma](https://almma.pe/) y Business Partner en Hybrid Advisors
