@@ -1,7 +1,7 @@
 ---
 title: "Sobre ISG - GEI"
 collection: aboutus
-permalink: /aboutus/2023-05-02-aboutus
+permalink: /aboutus/aboutus
 excerpt: 'Resumen de la organización'
 ---
 
