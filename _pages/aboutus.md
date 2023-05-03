@@ -5,7 +5,7 @@ permalink: /aboutus/
 author_profile: true
 ---
 
-El **Grupo de Estudio de la Internacionalización (GEI)** está enfocado en *investigar* y *promover* por la internacionalización de las empresas y por los Negocios Internacionales en el Perú.  
+El **Grupo de Estudio de la Internacionalización (GEI)** está enfocado en *investigar* y *promover* la internacionalización de las empresas y los Negocios Internacionales en el Perú.  
 
 
 ## Nuestra base
