@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-<img src="/images/jpBolanos2_2023.JPG" align="left" width="150px"/>
+<img src="/images/jp2023.png" align="left" width="150px"/>
 
 &nbsp; **Jean Pierre Bolaños** \
 &nbsp; `I promoción, Negocios Internacionales UP`
@@ -20,7 +20,7 @@ author_profile: true
 > Jean Pierre es *Research master student, University of Groningen* y becario del Graduate School of Economics and Business de la misma universidad.
 
 
-<img src="/images/mariaAlejandraPadilla2023.jpg" align="left" width="150px"/>
+<img src="/images/mariale2023.png" align="left" width="150px"/>
 
 &nbsp; **María Alejandra Padilla** \
 &nbsp; `I promoción, Negocios Internacionales UP`
@@ -32,7 +32,7 @@ author_profile: true
 
 > María Alejandra es *CRM and Data Analytics Lead — Hiraoka* y 1<sup>er</sup> puesto & Premio especial Robert Maes, Promoción 2017-I
 
-<img src="/images/javierTang2_2023.jpg" align="left" width="150px"/>
+<img src="/images/javi2023.png" align="left" width="150px"/>
 
 &nbsp; **Javier Tang** \
 &nbsp; `I promoción, Negocios Internacionales UP`
