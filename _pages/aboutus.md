@@ -36,7 +36,7 @@ El GEI emplea la formación investigadora y la amplia experiencia profesional de
 
 > Promover la internacionalización de las empresas y su investigación en el Perú desde diversas perspectivas
 
-A través de nuestras actividades, demostramos el valor de los Negocios Internacionales para nuestra comunidad empresarial y sociedad peruana. Nuestras recomendaciones y perspectivas conectan con evidencia empírica y estudios científicos.
+A través de nuestras actividades demostramos el valor de los Negocios Internacionales para la comunidad empresarial y sociedad peruana. Nuestras recomendaciones y perspectivas conectan con evidencia empírica y estudios científicos.
 
 <!--
 ###  CALL FOR INSIGHTS 2023
