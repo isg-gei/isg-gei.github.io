@@ -101,7 +101,7 @@ author_profile: true
 &nbsp; `V promoción, Negocios Internacionales UP`
 <br clear="left"/>
 
-> Ariana es *Business Analyst* en Ballast Lane Applications LLC (Estados Unidos). Asimismo, fue becaria del fondo del Banco de Crédito del Perú durante sus estudios en la Universidad del Pacífico.
+> Ariana es *Business Analyst* en Ballast Lane Applications LLC (Estados Unidos). Fue becaria durante sus estudios en la Universidad del Pacífico. Asimismo, es Co-founder de [Superfoods Qam](https://superfoodsqam.tiendada.com/).
 
 
 
