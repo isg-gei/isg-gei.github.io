@@ -112,7 +112,7 @@ author_profile: true
 
 Prof. Eveline [Hage](https://www.rug.nl/staff/m.l.hage/) — FEB Honours Master coordinator, *University of Groningen*
 
-Prof. Dennis [Veltrop](https://www.rug.nl/staff/d.veltrop/) — Associate professor of Corporate Governance, *University of Groningen*
+<!-- Prof. Dennis [Veltrop](https://www.rug.nl/staff/d.veltrop/) — Associate professor of Corporate Governance, *University of Groningen* -->
 
 Prof. Oscar [Malca](https://www.up.edu.pe/Paginas/perfil-autoridad.aspx?idd=000007335) — Vicedecano de Negocios Internacionales, *Universidad del Pacífico*
 
